@@ -1,3 +1,68 @@
+.edu{
+  border: 5px solid darkcyan;
+  border-radius: 15%;
+  border-width: 20%;
+  background-color: lightcyan;
+}
+
+.nav{
+  margin: 10px;
+}
+img{
+  max-width: 20%;
+  max-height: 20%;
+  border-radius: 50%;
+  display: cover;
+}
+p{
+  font-family: cambria;
+  font-size: 80%;
+  font-weight: bold;
+}
+
+html{
+  background-color: #e5f9ff;
+}
+img{
+  max-width: 45%;
+  max-height: 45%;
+  border-radius: 50%;
+}
+.infoo{
+  max-width: 50%;
+}
+
+.genHelp{
+  border: 5px solid steelblue;
+  border-radius: 15%;
+  border-width: 20%;
+  background-color: lightsteelblue;
+}
+
+h2{
+  font-size: 200%;
+  font-family: serif;
+  font-weight: bolder;
+}
+h4{
+  font-size: 125%;
+  font-family: serif;
+  font-weight: bold;
+}
+h5{
+  font-size: 118%;
+  font-family: serif;
+  font-weight: bold;
+}
+h6{
+  font-size: 114%;
+  font-family: serif;
+  font-weight: bold;
+}
+
+
+
+
 .App {
   text-align: center;
 }
